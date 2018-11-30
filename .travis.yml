@@ -1,8 +1,7 @@
 language: Django
 
 python:
-  - "3.6"
-  - "3.6.3"  # 3.6 development branch
+  - "3.6.6"  # 3.6 development branch
 
 install:
  "pip3 install -r requirements.txt"
