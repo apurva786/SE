@@ -5,7 +5,7 @@ language: python
 #  system_site_packages: true
 
 python:
-  - "3.6.6"  # 3.6 development branch
+  - "3.6"  # 3.6 development branch
 
 install:
  - pip install -r requirements.txt
